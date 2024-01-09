@@ -1,2 +1,3 @@
-# Basic Java fizzbuzz code
-# Basic java fizzbuzz code
+ Basic Java fizzbuzz code
+ Fizzbuzz is a basic code practice in most of the programming language.
+ 
