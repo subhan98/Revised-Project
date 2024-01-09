@@ -45,6 +45,8 @@ class Result {
 //     }
 //     else (i % 3 != 0 &&  i % 5 != 0){
 //         System.out.println(i);
+           System.out.println("Fizzbuzz);
+        System.out.println("hello");
 //     }
 //    }
     }
