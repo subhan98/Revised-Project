@@ -31,6 +31,8 @@ class Result {
                 System.out.println("Buzz");
             } else {
                 System.out.println(i);
+                System.out.println("fizzbuzz practice);
+                System.out.println("fizzbuzz practice);
             }
         }
 
